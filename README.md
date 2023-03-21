@@ -1,6 +1,6 @@
 # Dynamic App Icon
 
-[![GitHub stars](https://img.shields.io/github/stars/lesnitsky/dynamic_app_icon.svg?style=social)](https://github.com/lesnitsky/dynamic_app_icon)
+[![GitHub stars](https://img.shields.io/github/stars/lesnitsky/dynamic_app_icon.svg?style=social&hash=20230321)](https://github.com/lesnitsky/dynamic_app_icon)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_dev.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_dev)
 
 Set any widget as an app icon! (macOS only)
@@ -31,5 +31,5 @@ class Example extends StatelessWidget {
 
 MIT
 
-[![GitHub stars](https://img.shields.io/github/stars/lesnitsky/dynamic_app_icon.svg?style=social)](https://github.com/lesnitsky/dynamic_app_icon)
+[![GitHub stars](https://img.shields.io/github/stars/lesnitsky/dynamic_app_icon.svg?style=social&hash=20230321)](https://github.com/lesnitsky/dynamic_app_icon)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_dev.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_dev)

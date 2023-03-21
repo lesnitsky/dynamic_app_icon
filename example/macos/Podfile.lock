@@ -1,0 +1,28 @@
+PODS:
+  - dynamic_app_icon (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - rive_common (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - dynamic_app_icon (from `Flutter/ephemeral/.symlinks/plugins/dynamic_app_icon/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - rive_common (from `Flutter/ephemeral/.symlinks/plugins/rive_common/macos`)
+
+EXTERNAL SOURCES:
+  dynamic_app_icon:
+    :path: Flutter/ephemeral/.symlinks/plugins/dynamic_app_icon/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  rive_common:
+    :path: Flutter/ephemeral/.symlinks/plugins/rive_common/macos
+
+SPEC CHECKSUMS:
+  dynamic_app_icon: 9e47653e562beb248edb5fbce0efbcaf8cf606f5
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  rive_common: 643f5c20ccd60c53136ab5c970eccf0d17e010fe
+
+PODFILE CHECKSUM: 353c8bcc5d5b0994e508d035b5431cfe18c1dea7
+
+COCOAPODS: 1.11.3

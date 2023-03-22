@@ -5,6 +5,12 @@
 
 Set any widget as an app icon! (macOS only)
 
+## Installation
+
+```sh
+flutter pub add dynamic_app_icons
+```
+
 ## Example
 
 ```dart

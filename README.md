@@ -27,6 +27,14 @@ class Example extends StatelessWidget {
 }
 ```
 
+## Demo
+
+https://user-images.githubusercontent.com/6261302/227051495-a683add8-8f5a-4bb3-a672-86f865122548.mov
+
+---
+
+Check out [example](https://github.com/lesnitsky/dynamic_app_icon/tree/main/example) for more details
+
 ## License
 
 MIT
